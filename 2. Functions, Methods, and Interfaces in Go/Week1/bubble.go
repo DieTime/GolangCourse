@@ -23,6 +23,7 @@ func main() {
 	var data = make([]int, 0, 10)
 	var input string
 
+	// Reading 10 or less integers
 	fmt.Println("Enter a sequence of up to 10 integers. Press 'X' to stop...")
 	for len(data) < 10 {
 		fmt.Print("Enter number: ")
@@ -33,19 +34,24 @@ func main() {
 			return
 		}
 
+		// Stop reading if input is 'X'
 		if input == "X" {
 			break
 		}
 
+		// Convert input to integer
 		intInput, err := strconv.Atoi(input)
 		if err != nil {
 			fmt.Println(err)
 			return
 		}
 
+		// Add integer to slice
 		data = append(data, intInput)
 	}
 	fmt.Println("Stop listening...")
+
+	/*    Print result (before, after)    */
 
 	fmt.Println("Original slice:", data)
 
