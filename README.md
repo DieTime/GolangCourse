@@ -1,5 +1,3 @@
-# Golang course
-
 ### 1. Getting Started with go
 1. [Hello world]() `hello.go`
 2. [Basics, fmt and strings modules]() `trunc.go` `findian.go`
