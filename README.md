@@ -11,3 +11,5 @@
 2. [Functions and anonymous functions](2.%20Functions,%20Methods,%20and%20Interfaces%20in%20Go/Week2) `displacement.go`
 3. [Simple use of OOP](2.%20Functions,%20Methods,%20and%20Interfaces%20in%20Go/Week3) `animals.go`
 4. [Polymorphism in Golang](2.%20Functions,%20Methods,%20and%20Interfaces%20in%20Go/Week4) `animals2.0.go`
+
+![Part 2. Certificate](Certificates/2.%20Functions,%20Methods,%20and%20Interfaces%20in%20Go.svg)
