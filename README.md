@@ -13,3 +13,7 @@
 4. [Polymorphism in Golang](2.%20Functions,%20Methods,%20and%20Interfaces%20in%20Go/Week4) `animals2.0.go`
 
 ![Part 2. Certificate](Certificates/2.%20Functions,%20Methods,%20and%20Interfaces%20in%20Go.svg)
+
+### 3. Concurrency in Go
+1. [About Moore's Law](3.%20Concurrency%20in%20Go/Week1) `Moore.docx`
+2. [Race Conditions](3.%20Concurrency%20in%20Go/Week2) `race.go`
