@@ -17,3 +17,4 @@
 ### 3. Concurrency in Go
 1. [About Moore's Law](3.%20Concurrency%20in%20Go/Week1) `moore.docx`
 2. [Race Conditions](3.%20Concurrency%20in%20Go/Week2) `race.go`
+3. [Sorting using goroutine](3.%20Concurrency%20in%20Go/Week3) `sorting.go`
